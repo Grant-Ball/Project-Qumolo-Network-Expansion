@@ -19,8 +19,8 @@ Create a basic README.md file within your repos that contains the names of all t
 Make sure everyone has access and permissions to the PM tooling you are using. Make any appropriate or required associations or connections between Github and your tool.
 If you are unfamiliar with any PM tools, here are a few suggestions:
 * GitHub Projects (https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-* SpiceWorks
-* TrelloFree
-* Azure DevOps
+* SpiceWorks (https://www.spiceworks.com/free-help-desk-software)
+* TrelloFree (https://trello.com/)
+* Azure DevOps (https://azure.microsoft.com/en-us/products/devops/?nav=min)
 ## Submitting Your Work
 Only one person needs to submit this assignment for the group to receive credit In the text area, write the name of your project and provide a link to the repository you have created.
