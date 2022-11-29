@@ -2,7 +2,8 @@
 
 ## OPS-201 Final project
 
-### Team members: Grant Ball
+### Team members: 
+              Grant Ball
               Jose Cardozo
               Cameron Griffin
               Eric Santos
