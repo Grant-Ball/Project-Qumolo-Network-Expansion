@@ -6,7 +6,7 @@ Projects are stressful, and can ignite emotions that otherwise wouldn’t be a p
 * Schedule a 1-hour meeting for your entire project team.
 * Use this time to review the Team Agreement requirements below, and establish consensus on how to handle each requirement.
 
-# Deliverable
+## Deliverable
 * Start a public-facing GitHub markdown file, and include the following components in your team agreement submission.
 
 ## Cooperation Plan
