@@ -24,7 +24,7 @@ How does it fit into your scenario’s requirements?
 * OneDrive access for collaboration
 * MS Outlook Desktop to access Office 365 email accounts
 * RDP established for GUI access from home
-The engineers require:
+<b> The engineers require:</b>
 * Ubuntu Desktop with two HDD for nightly backups and weekly OS backups
 * VS Code
 * Mozilla Thunderbird to access Office 365 email accounts 
