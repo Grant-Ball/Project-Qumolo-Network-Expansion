@@ -19,7 +19,7 @@ Mozilla Thunderbird - Software engineers will use this email client to sync the 
 
 How does it fit into your scenario’s requirements?
 
-<b> The sales reps require:
+<b> The sales reps require: </b>
     * Windows 10 Pro VM with two HDD for nightly backups and weekly OS backups
     * OneDrive access for collaboration
     * MS Outlook Desktop to access Office 365 email accounts
