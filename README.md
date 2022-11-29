@@ -8,7 +8,9 @@
               Cameron Griffin
               Eric Santos
               Scott Vipond
-              
+
+Our team will address the concerns of a potential cleint with remote access, automoation, and virtualization to meet their needs.  Additionanlly, we will create a service level agreement and multiple SOPs discussing the services.
+
 ### Scenario A: Sales Computer
 OS
 
