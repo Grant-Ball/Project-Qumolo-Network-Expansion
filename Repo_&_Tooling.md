@@ -15,16 +15,22 @@ This project may well be a key piece of your portfolio. Potential employers will
 * <b> Project Qumolo Network Expansion </b>
 
 Then, complete the following:
-Lock down your main branch. Set a restriction on your main branch that PR’s must be approved by someone other than the PR owner before it can get merged.
+Lock down your main branch. 
+Set a restriction on your main branch that PR’s must be approved by someone other than the PR owner before it can get merged.
 Create a branch where a test or staging deployment may be made with merged features that may not yet be ready for production
 Apply any other relevant safeguards or processes that you mentioned in your Git Workflow from part 1 of your project planning.
 Create a basic README.md file within your repos that contains the names of all the members as well as a short description of the project.
+
 ## PM Tools
+
 Make sure everyone has access and permissions to the PM tooling you are using. Make any appropriate or required associations or connections between Github and your tool.
+
 If you are unfamiliar with any PM tools, here are a few suggestions:
 * GitHub Projects (https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
 * SpiceWorks (https://www.spiceworks.com/free-help-desk-software)
 * TrelloFree (https://trello.com/)
 * Azure DevOps (https://azure.microsoft.com/en-us/products/devops/?nav=min)
+* 
 ## Submitting Your Work
+
 Only one person needs to submit this assignment for the group to receive credit In the text area, write the name of your project and provide a link to the repository you have created.
