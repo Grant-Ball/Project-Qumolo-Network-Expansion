@@ -13,27 +13,27 @@ Projects are stressful, and can ignite emotions that otherwise wouldn’t be a p
 * Every person on your team is an asset. This is your chance to discover the hidden strengths and areas for growth for each team member.
 
 ### What are the key strengths of each person on the team?
-Grant - Ability to public speak with ease.
-Cameron - Coding and working on the command line. 
-Jose - Team work
-Eric -  Prior coding and linux experience
-Scott - Time management, communication
+* * Grant - Ability to public speak with ease.
+* * Cameron - Coding and working on the command line. 
+* * Jose - Team work
+* * Eric -  Prior coding and linux experience
+* * Scott - Time management, communication
 ### How can you best utilize these strengths in the execution of your project?
-Grant - I could speak first to break the ice. I don't know 
-Cameron - Working to develop the linux based systems, and help with scripts.
-Jose - Bring the team together to best achieve our goals
-Eric - Comfortable using scripts to automate tasks
-Scott - Keeping team on track and focused on end goal of an on-time project submission
+* * Grant - I could speak first to break the ice. I don't know 
+* * Cameron - Working to develop the linux based systems, and help with scripts.
+* * Jose - Bring the team together to best achieve our goals
+* * Eric - Comfortable using scripts to automate tasks
+* * Scott - Keeping team on track and focused on end goal of an on-time project submission
 ### In which professional competencies do you each want to develop greater strength?
-Grant - Ability to manage workload and take it one step at a time.
-Cameron - Work on communication and team building.
-Jose - Focus and organization
-Eric - Organization, time management
-Scott - Delegation 
+* * Grant - Ability to manage workload and take it one step at a time.
+* * Cameron - Work on communication and team building.
+* * Jose - Focus and organization
+* * Eric - Organization, time management
+* * Scott - Delegation 
 ### Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
-<b>Team members will have a sliding availability with core hours of 1000 - 1600, but members will be contactable between 0900 - 1700 unless previously arranged.
-Morning meeting: 1000
-Afternoon meeting: 1500</b>
+<b>Team members will have a sliding availability with core hours of 1000 - 1600, but members will be contactable between 0900 - 1700 unless previously arranged.</b>
+* * Morning meeting: 1000
+* * Afternoon meeting: 1500</b>
 
 * NOTE: Undoing, Redoing, Replacing, or otherwise steamrolling the project as an individual is considered to be unacceptable. Account for the inevitable divergence of ideas, execution tasks, and assignments of duties here.
 
