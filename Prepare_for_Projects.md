@@ -8,14 +8,14 @@
 Review the project guidelines and scenario. Meet as a team and decide what systems, platforms, or tools you’ll be using this project. Each should represent a clear, logical solution to a problem the client company is facing.
 Create a high-level list of systems, platforms, or tools you’ve decided to work with this project. For each, explain:
 
-<b> Win 10 Pro machines with two HDD/SDD-  This is the main OS the sales division will be using at the company.
-MS Outlook Desktop(trial version) - This is the main email account the sales department will be using and will be used to sync OneDrive. 
-MS OneDrive - All sales reps will be using OneDrive to collaborate, which will be attached to their MS Outlook account. 
-VS Code - This will be installed on the software engineers Systems, and will be using Ubuntu version of VS Code.
-Ubuntu Desktop with two HDD/SDD - This is the OS the software engineers will be using on their systems. 
-MS Backup/Task Scheduler (OS included) - Tools used to perform needed tasks (Backup) 
-RDP established for each VM (GUI) - Sales reps will use the RDP to access the system from home using the GUI interface.
-Mozilla Thunderbird - Software engineers will use this email client to sync the MS 365 account, on the Ubuntu computer.  </b>
+* <b> Win 10 Pro machines with two HDD/SDD-  This is the main OS the sales division will be using at the company. </b>
+* <b> MS Outlook Desktop(trial version) - This is the main email account the sales department will be using and will be used to sync OneDrive. </b>
+* <b> MS OneDrive - All sales reps will be using OneDrive to collaborate, which will be attached to their MS Outlook account. </b>
+* <b> VS Code - This will be installed on the software engineers Systems, and will be using Ubuntu version of VS Code. </b>
+* <b> Ubuntu Desktop with two HDD/SDD - This is the OS the software engineers will be using on their systems. </b>
+* <b> MS Backup/Task Scheduler (OS included) - Tools used to perform needed tasks (Backup) </b>
+* <b> RDP established for each VM (GUI) - Sales reps will use the RDP to access the system from home using the GUI interface. </b>
+* <b> Mozilla Thunderbird - Software engineers will use this email client to sync the MS 365 account, on the Ubuntu computer.  </b>
 
 How does it fit into your scenario’s requirements?
 
