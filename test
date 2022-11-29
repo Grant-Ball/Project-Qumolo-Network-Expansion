@@ -1,93 +1,101 @@
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.456 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Tue Nov 29 2022 14:41:18 GMT-0800 (PST)
-* Source doc: Untitled document
------>
-
-
-**<span style="text-decoration:underline;">Team A</span>**
-
+<p>
+<strong><span style="text-decoration:underline;">Team A</span></strong>
+</p>
+<p>
 Grant Ball
-
+</p>
+<p>
 Jose Cardozo
-
+</p>
+<p>
 Cameron Griffin
-
+</p>
+<p>
 Eric Santos
-
+</p>
+<p>
 Scott Vipond
-
+</p>
+<p>
 29 Nov 22
+</p>
+<h1><strong># Repo and Tooling</strong></h1>
 
 
-# **# Repo and Tooling**
-
+<p>
 Today we will create your project repo and setup your tooling for project management.
+</p>
+<h2><strong>## Build your Repo</strong></h2>
 
 
-## **## Build your Repo**
-
+<p>
 It is now time to begin preparations for your Group Project. The next step for group projects is to create a repository where you will do your work.
+</p>
+<h3><strong>### Tasks</strong></h3>
 
 
-### **### Tasks**
-
+<p>
 Each group should select a team member to host the project repository. This member should create a new repository and add the other team members as collaborators, so that everyone has the right to manage the repository.
-
-**&lt;b> Grant will host the repository** **[https://github.com/Grant-Ball/Ops-201-project](https://github.com/Grant-Ball/Ops-201-project) &lt;/b>**
-
+</p>
+<p>
+<strong>&lt;b> Grant will host the repository</strong> <strong><a href="https://github.com/Grant-Ball/Ops-201-project">https://github.com/Grant-Ball/Ops-201-project</a> &lt;/b></strong>
+</p>
+<p>
 Alternatively, you may create a GitHub “Organization”, add team members as members of the organization, and create the repository there.
-
-**&lt;b> N/A - already hosted &lt;/b>**
-
-The name of the org and the repo should **resume-ready**. Use the app name, the problem domain, or another professional-sounding team name. Don’t call it 201Final or project-week-app or reeses-puffs or similar.
-
+</p>
+<p>
+<strong>&lt;b> N/A - already hosted &lt;/b></strong>
+</p>
+<p>
+The name of the org and the repo should <strong>resume-ready</strong>. Use the app name, the problem domain, or another professional-sounding team name. Don’t call it 201Final or project-week-app or reeses-puffs or similar.
+</p>
+<p>
 
     This project may well be a key piece of your portfolio. Potential employers will be looking at this project. Name it accordingly.
-
-**&lt;b> Project Qumolo Network Expansion &lt;/b>**
-
+</p>
+<p>
+<strong>&lt;b> Project Qumolo Network Expansion &lt;/b></strong>
+</p>
+<p>
 Then, complete the following:
+</p>
+<ol>
+
+<li>Lock down your main branch. Set a restriction on your main branch that PR’s must be approved by someone other than the PR owner before it can get merged.
+
+<li>Create a branch where a test or staging deployment may be made with merged features that may not yet be ready for production
+
+<li>Apply any other relevant safeguards or processes that you mentioned in your Git Workflow from part 1 of your project planning.
+
+<li>Create a basic README.md file within your repos that contains the names of all the members as well as a short description of the project.
+</li>
+</ol>
+<h2><strong>## PM Tools</strong></h2>
 
 
-
-1. Lock down your main branch. Set a restriction on your main branch that PR’s must be approved by someone other than the PR owner before it can get merged.
-2. Create a branch where a test or staging deployment may be made with merged features that may not yet be ready for production
-3. Apply any other relevant safeguards or processes that you mentioned in your Git Workflow from part 1 of your project planning.
-4. Create a basic README.md file within your repos that contains the names of all the members as well as a short description of the project.
-
-
-## **## PM Tools**
-
+<p>
 Make sure everyone has access and permissions to the PM tooling you are using. Make any appropriate or required associations or connections between Github and your tool.
-
+</p>
+<p>
 If you are unfamiliar with any PM tools, here are a few suggestions:
+</p>
+<ol>
+
+<li><a href="https://help.github.com/en/articles/about-project-boards">GitHub Projects</a>
+
+<li><a href="https://www.spiceworks.com/free-help-desk-software">SpiceWorks</a>
+
+<li><a href="https://trello.com/">TrelloFree</a>
+
+<li><a href="https://azure.microsoft.com/en-us/services/devops/?nav=min">Azure DevOps</a>
+</li>
+</ol>
+<h2><strong>## Submitting Your Work</strong></h2>
 
 
-
-1. [GitHub Projects](https://help.github.com/en/articles/about-project-boards)
-2. [SpiceWorks](https://www.spiceworks.com/free-help-desk-software)
-3. [TrelloFree](https://trello.com/)
-4. [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min)
-
-
-## **## Submitting Your Work**
-
-**Only one person needs to submit this assignment for the group to receive credit** In the text area, write the name of your project and provide a link to the repository you have created.
-
-_This assignment will be graded based on your naming of your repo (and org) as described, how it’s configured, and your completeness in following all instructions._
+<p>
+<strong>Only one person needs to submit this assignment for the group to receive credit</strong> In the text area, write the name of your project and provide a link to the repository you have created.
+</p>
+<p>
+<em>This assignment will be graded based on your naming of your repo (and org) as described, how it’s configured, and your completeness in following all instructions.</em>
+</p>
