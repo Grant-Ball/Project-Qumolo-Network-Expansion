@@ -1,8 +1,8 @@
 # Prepare for Projects: Systems Selection Document
-This project will require you to demonstrate skills you’ve learned so far in the course.
+* This project will require you to demonstrate skills you’ve learned so far in the course.
 ## Project Requirements
 
-Your instructor will provide the project guidelines and send you the scenario unique to your team. Some aspects of the project are left up to you to decide how to approach.
+### Your instructor will provide the project guidelines and send you the scenario unique to your team. Some aspects of the project are left up to you to decide how to approach.
 ## Systems Selection
 
 Review the project guidelines and scenario. Meet as a team and decide what systems, platforms, or tools you’ll be using this project. Each should represent a clear, logical solution to a problem the client company is facing.
@@ -19,15 +19,15 @@ Mozilla Thunderbird - Software engineers will use this email client to sync the 
 
 How does it fit into your scenario’s requirements?
 
-<b> The sales reps require: </b>
-    * Windows 10 Pro VM with two HDD for nightly backups and weekly OS backups
-    * OneDrive access for collaboration
-    * MS Outlook Desktop to access Office 365 email accounts
-    * RDP established for GUI access from home
+<b> The sales reps require:</b>
+* Windows 10 Pro VM with two HDD for nightly backups and weekly OS backups
+* OneDrive access for collaboration
+* MS Outlook Desktop to access Office 365 email accounts
+* RDP established for GUI access from home
 The engineers require:
-    * Ubuntu Desktop with two HDD for nightly backups and weekly OS backups
-    * VS Code
-    * Mozilla Thunderbird to access Office 365 email accounts </b>
+* Ubuntu Desktop with two HDD for nightly backups and weekly OS backups
+* VS Code
+* Mozilla Thunderbird to access Office 365 email accounts 
     
 What problem or pain point does it solve? In other words, what value does this add to your client?
 
