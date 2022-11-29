@@ -14,7 +14,7 @@ MS Backup/Task Scheduler (OS included) - Tools used to perform needed tasks (Bac
 RDP established for each VM (GUI) - Sales reps will use the RDP to access the system from home using the GUI interface.
 Mozilla Thunderbird - Software engineers will use this email client to sync the MS 365 account, on the Ubuntu computer.  **
 How does it fit into your scenario’s requirements?
-** The sales reps require:
+**The sales reps require:
     Windows 10 Pro VM with two HDD for nightly backups and weekly OS backups
     OneDrive access for collaboration
     MS Outlook Desktop to access Office 365 email accounts
@@ -22,7 +22,7 @@ How does it fit into your scenario’s requirements?
 The engineers require:
     Ubuntu Desktop with two HDD for nightly backups and weekly OS backups
     VS Code
-    Mozilla Thunderbird to access Office 365 email accounts **
+    Mozilla Thunderbird to access Office 365 email accounts**
 What problem or pain point does it solve? In other words, what value does this add to your client?
 ** Project collaboration on OneDrive for the sales reps will increase productivity and streamline documentation.  The connectivity for remote users through RDP will ensure sales reps can access their work computer while on the road.  The nightly data backups and weekly OS backup will ensure data integrity and recoverability for all employees. **
 Keep it high level without going into too much detail, 3-4 sentences is enough.
