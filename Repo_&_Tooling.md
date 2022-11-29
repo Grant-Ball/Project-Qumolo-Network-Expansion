@@ -5,11 +5,15 @@ It is now time to begin preparations for your Group Project. The next step for g
 ### Tasks
 Each group should select a team member to host the project repository. This member should create a new repository and add the other team members as collaborators, so that everyone has the right to manage the repository.
 * <b> Grant will host the repository https://github.com/Grant-Ball/Ops-201-project </b>
+
 Alternatively, you may create a GitHub “Organization”, add team members as members of the organization, and create the repository there.
 * <b> N/A - already hosted </b>
+
 The name of the org and the repo should resume-ready. Use the app name, the problem domain, or another professional-sounding team name. Don’t call it 201Final or project-week-app or reeses-puffs or similar.
+
 This project may well be a key piece of your portfolio. Potential employers will be looking at this project. Name it accordingly.
 * <b> Project Qumolo Network Expansion </b>
+
 Then, complete the following:
 Lock down your main branch. Set a restriction on your main branch that PR’s must be approved by someone other than the PR owner before it can get merged.
 Create a branch where a test or staging deployment may be made with merged features that may not yet be ready for production
