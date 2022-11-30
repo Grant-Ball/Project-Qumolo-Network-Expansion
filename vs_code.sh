@@ -1,17 +1,15 @@
 #!bin/bash/
-#Run as "sudo yes | sh vs_code.sh"
 
-# Install CURL
-sudo apt-get install curl
+#Updates
+sudo apt update
 
-# Prerequists VS CODE
-curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
+#Installs VSCode
+sudo apt install software-properties-common apt-transport-https wget -y
 
-sudo mv microsoft.gpg /etc/apt/trusted.gpg.d/microsoft.gpg
+wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
 
-sudo sh -c 'echo "deb [arch=amd64] http://packages.microsoft.com/repos/vscode stable main" > /etc/apt/sources.list.d/vscode.list'
-
-# Install
-sudo apt-get update
+sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
 sudo apt install code
+
+#Upgrades
 sudo apt-get upgrade
