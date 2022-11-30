@@ -1,4 +1,5 @@
 #!bin/bash/
+#Run as "sudo yes | sh vs_code.sh"
 
 # Install CURL
 sudo apt-get install curl
