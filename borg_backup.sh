@@ -8,3 +8,6 @@ sudo borg create --stats /media/osint/BACKUP/home_backup::backup-$(date '+%Y-%m-
 
 #Delete Backup archive (Change pathway to location of borg repository nad archive name to be deleted)
 #sudo borg delete /media/osint/BACKUP/home_backup:: (Archive Name)
+
+#Extract Backup to Home directory 
+#sudo borg extract /media/osint/BACKUP/home_backup:: (NAME OF BACKUP ARCHIVE) /home/osint/
