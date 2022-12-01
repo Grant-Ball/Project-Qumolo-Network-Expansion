@@ -7,4 +7,4 @@ sudo borg create --stats /media/osint/BACKUP/home_backup::backup-$(date '+%Y-%m-
 #sudo borg list /media/osint/BACKUP/home_backup
 
 #Delete Backup archive
-#sudo borg delete /media/osint/home_backup:: (Archive Name)
+#sudo borg delete /media/osint/BACKUP/home_backup:: (Archive Name)
