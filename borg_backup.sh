@@ -1,10 +1,10 @@
 #!/bin/bash
 
-#Create backup
+#Create backup (Change pathway to location of borg repository)
 sudo borg create --stats /media/osint/BACKUP/home_backup::backup-$(date '+%Y-%m-%d-%S') /home
 
-#List Borg Backups
+#List Borg Backups (Change pathway to location of borg repository)
 #sudo borg list /media/osint/BACKUP/home_backup
 
-#Delete Backup archive
+#Delete Backup archive (Change pathway to location of borg repository nad archive name to be deleted)
 #sudo borg delete /media/osint/BACKUP/home_backup:: (Archive Name)
