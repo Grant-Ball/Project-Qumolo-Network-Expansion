@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Create backup (Change pathway to location of borg repository)
-sudo borg create --stats /media/osint/BACKUP/home_backup::backup-$(date '+%Y-%m-%d-%S') /home
+sudo borg create --stats /media/osint/BACKUP/home_backup::backup-$(date '+%Y-%m-%d-%S') /home/osint
 
 #List Borg Backups (Change pathway to location of borg repository)
 #sudo borg list /media/osint/BACKUP/home_backup
@@ -10,4 +10,4 @@ sudo borg create --stats /media/osint/BACKUP/home_backup::backup-$(date '+%Y-%m-
 #sudo borg delete /media/osint/BACKUP/home_backup:: (Archive Name)
 
 #Extract Backup to Home directory 
-#sudo borg extract --strip-components 2 /media/osint/BACKUP/home_backup:: (NAME OF BACKUP ARCHIVE) /home/osint/
+#sudo borg extract --strip-components 1 /media/osint/BACKUP/home_backup:: (NAME OF BACKUP ARCHIVE) /home/osint
