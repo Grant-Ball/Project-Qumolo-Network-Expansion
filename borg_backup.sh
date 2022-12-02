@@ -10,4 +10,4 @@ sudo borg create --stats /media/osint/BACKUP/home_backup::backup-$(date '+%Y-%m-
 #sudo borg delete /media/osint/BACKUP/home_backup:: (Archive Name)
 
 #Extract Backup to Home directory 
-#sudo borg extract /media/osint/BACKUP/home_backup:: (NAME OF BACKUP ARCHIVE) /home/osint/
+#sudo borg extract --strip-components 2 /media/osint/BACKUP/home_backup:: (NAME OF BACKUP ARCHIVE) /home/osint/
