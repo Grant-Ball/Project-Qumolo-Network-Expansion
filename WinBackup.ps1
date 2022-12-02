@@ -1,3 +1,6 @@
+# Check Update & Security Settings, For Developers, PowerShell, "Change execution policy to allow local PowerShell" is enabled!
+# https://winbuzzer.com/2020/07/10/how-to-enable-powershell-scripts-in-windows-10-via-powershell-execution-policy-xcxwbt/
+
 # Script: GigaRhino Win OS Backup
 # Author: Scott Vipond
 # Date: 1 Dec 22
