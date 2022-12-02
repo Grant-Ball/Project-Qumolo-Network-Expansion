@@ -13,4 +13,4 @@ ROBOCOPY.EXE “C:\Windows” “E:\OS_Backup”
 
 # Copies OS files from C:\ to E:\, will use Task Scheduler for frequency
 # Need to change the User\ path to match the machine!
-ROBOCOPY.EXE “C:\User\UserName” “E:\User_Backup”
+ROBOCOPY.EXE “C:\Users\UserName” “E:\User_Backup”
