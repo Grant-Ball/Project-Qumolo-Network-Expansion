@@ -22,7 +22,8 @@ How does it fit into your scenario’s requirements?
 #### The sales reps require:
 * Windows 10 Pro VM with two HDD for nightly backups and weekly OS backups
 * OneDrive access for collaboration
-* MS Outlook Desktop to access Office 365 email accounts
+~~* MS Outlook Desktop to access Office 365 email accounts~~
+* Using Spark Mail desktop client, MS Outlook requires account set up, confirmed with client (Ethan) this is acceptable
 * RDP established for GUI access from home
 #### The engineers require:
 * Ubuntu Desktop with two HDD for nightly backups and weekly OS backups
