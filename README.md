@@ -32,4 +32,4 @@ The sales rep will remote into this computer from home. The sales rep is only pr
 
 [GigaRhino SOPs](https://github.com/Grant-Ball/Project-Qumolo-Network-Expansion/wiki)
 
-<embed([GigaRhino Presentation](https://drive.google.com/file/d/17r8rOuT3K344-dHVp1S0DZmyQxmdcpAF/view?usp=sharing)embed>
+<embed[GigaRhino Presentation](https://drive.google.com/file/d/17r8rOuT3K344-dHVp1S0DZmyQxmdcpAF/view?usp=sharing)embed>
