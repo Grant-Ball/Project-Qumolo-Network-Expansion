@@ -29,5 +29,7 @@ The sales rep will remote into this computer from home. The sales rep is only pr
 
 # GigaRhino Documentation
 [GigaRhino SLA](https://docs.google.com/document/d/1VQbLdUTzTKj_ji2xKI-ohJhvIPesnM0Q_W7ywsxnXiE/edit?usp=sharing)
+
 [GigaRhino SOPs](https://github.com/Grant-Ball/Project-Qumolo-Network-Expansion/wiki)
+
 [GigaRhino Presentation]
