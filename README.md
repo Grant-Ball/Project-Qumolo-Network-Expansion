@@ -2,6 +2,8 @@
 
 ## OPS-201 Final project
 
+### Code Fellows OPS-201 Final Project - requiring a small team of students to address a potential client's needs.  These are then demontratred, documented, and presented as a "sales pitch" to the instructors and other guests.
+
 ### Team members: 
               Grant Ball
               Jose Cardozo
