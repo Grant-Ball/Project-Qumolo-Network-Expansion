@@ -28,5 +28,5 @@ Each desktop should come standard with a backup hard drive that clones every nig
 The sales rep will remote into this computer from home. The sales rep is only proficient with a GUI desktop interface and is otherwise not a technical computer user.
 
 # GigaRhino Documentation
-[GigaRhino SLA]
+[GigaRhino SLA](https://docs.google.com/document/d/1VQbLdUTzTKj_ji2xKI-ohJhvIPesnM0Q_W7ywsxnXiE/edit?usp=sharing)
 [GigaRhino SOPs]
